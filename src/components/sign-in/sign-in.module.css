@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+
+.signIn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.signIn > * {
+  margin: 10px 0;
+}
